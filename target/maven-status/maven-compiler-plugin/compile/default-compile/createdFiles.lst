@@ -1,0 +1,7 @@
+com\seuprojeto\reservas\controller\ReservaController.class
+com\seuprojeto\reservas\repository\ReservaRepository.class
+com\seuprojeto\reservas\controller\ReservaViewController.class
+com\seuprojeto\reservas\SistemaReservasApplication.class
+com\seuprojeto\reservas\model\Reserva.class
+com\seuprojeto\App.class
+com\seuprojeto\reservas\service\ReservaService.class
